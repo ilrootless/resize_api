@@ -315,3 +315,6 @@ fabric.properties
 # pytype static type analyzer
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django,linux,pycharm
+.gitsecret/keys/random_seed
+!*.secret
+resize_api/confidencial_data.py
