@@ -13,7 +13,7 @@ ALLOWED_HOSTS = ['127.0.0.1']
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'SOA.data',
+        'NAME': 'resize_api.data',
         'USER': 'ilrootless',
         'PASSWORD': confidencial_data.pgsql_pass(),
         'HOST': 'localhost',
