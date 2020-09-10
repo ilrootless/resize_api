@@ -318,3 +318,6 @@ fabric.properties
 .gitsecret/keys/random_seed
 !*.secret
 resize_api/confidencial_data.py
+confidencial_data.py
+.gitsecret/keys/random_seed
+!*.secret

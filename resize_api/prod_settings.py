@@ -15,7 +15,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'SOA.data',
         'USER': 'ilrootless',
-        'PASSWORD': confidential_data.pgsql_pass(),
+        'PASSWORD': confidencial_data.pgsql_pass(),
         'HOST': 'localhost',
         'PORT': '5432',
     }
